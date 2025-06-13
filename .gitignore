@@ -23,5 +23,8 @@ build/
 # macOS
 .DS_Store
 
+coldstorageGIT
+coldstorageGIT.pub
+
 # Logs
 *.log
